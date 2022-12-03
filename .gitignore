@@ -1,0 +1,9 @@
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+build/Debug/day1_1.o
+build/Debug/helpers.o
+build/Debug/outDebug.exe
+build/Release/day1_1.o
+build/Release/helpers.o
+build/Release/outRelease.exe
