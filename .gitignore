@@ -7,3 +7,4 @@ build/Debug/outDebug.exe
 build/Release/day1_1.o
 build/Release/helpers.o
 build/Release/outRelease.exe
+build/Release/main.o
