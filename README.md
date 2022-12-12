@@ -1,4 +1,4 @@
-# advent-of-code-2022-in-c
+# advent-of-code-in-c
 
 Doing advent of code in C
 
